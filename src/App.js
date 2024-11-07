@@ -57,8 +57,8 @@ function App() {
       return;
     }
     else if(calc === '08/11/2005'){
-      setCalc('Happy Birthday Devon bb🎂');
-      setResult('Happy Birthday Devon bb🎂');
+      setCalc('Happy Birthday bb🎂');
+      setResult('Happy Birthday bb🎂');
       return;
     }
     else if(calc === '999'){
